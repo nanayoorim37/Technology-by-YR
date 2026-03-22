@@ -1,7 +1,7 @@
 ---
 title: Hi, I'm YR!
 ---
-![[Hi, I'm YR!.png|210]]
+![[Hi, I'm YR!.png|350]]
 
 안녕하세요. 유림입니다!
 
