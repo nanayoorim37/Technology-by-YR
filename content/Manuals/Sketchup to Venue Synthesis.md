@@ -9,6 +9,8 @@ programs:
   - "[[Venue Synthesis]]"
 tags:
   - manual
+aliases:
+  - /Sketchup to Venue Synthesis
 ---
 1. [Venue Synthesis SketchUp Plugin](https://jblpro.com/en/products/venue-synthesis) 다운로드
 2. Sketchup에서 창(Window)→확장 관리자(Extension Manager)

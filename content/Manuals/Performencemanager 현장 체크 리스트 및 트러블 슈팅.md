@@ -6,6 +6,8 @@ programs:
 tags:
   - manual
   - error
+aliases:
+  - /Performencemanager 현장 체크 리스트 및 트러블 슈팅
 ---
 
 ## **✅**1. 기본 체크 리스트
