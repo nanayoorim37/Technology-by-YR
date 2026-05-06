@@ -1,6 +1,6 @@
 ### 화면 세팅
-오른쪽 - 개체 정보, 태그 등
-상단 - 기본 탭, 도구
+- 오른쪽 - 개체 정보, 태그 등
+- 상단 - 기본 탭, 도구
 
 ### 단축키 세팅
 > 창(Sketchup logo on MAC) → 환경설정 → 바로가기 → 원하는 기능 검색 후 단축키 추가
@@ -15,7 +15,7 @@
 
 ### 플러그인 설치
 창(Window)→확장 관리자(Extension Manager)→확장 설치(Install)→ .rbz 파일 선택
-	[Venue Synthesis SketchUp Plugin](https://jblpro.com/en/products/venue-synthesis) 설치해놓기
+- [Venue Synthesis SketchUp Plugin](https://jblpro.com/en/products/venue-synthesis) 설치해놓기
 
 ### 화면 조정
 - 화면 회전 / 기울기 조정 — 마우스 휠 누른 채 드래그
