@@ -12,6 +12,7 @@ tags:
 ## Export
 1. Export 할 면 선택
 2. 확장 → d&b ArrayCalc Exchange → Export
+	
 	![[Pasted image 20260506111307.png|450]]
 3. 세부 사항 설정
 	**Listener height** : 청취자의 귀 높이 (기본값 1.2m)
